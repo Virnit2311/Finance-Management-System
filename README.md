@@ -9,7 +9,9 @@ A simple yet powerful finance management system that analyzes user spending patt
   
   NLTK-based chatbot answers general finance-related questions and user-specific spending queries.
 
+
 🛠️ Technologies Used
+  
   Python
   Pandas (Data preprocessing)
   Scikit-learn (K-Means clustering)
