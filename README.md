@@ -1,6 +1,6 @@
 A simple yet powerful finance management system that analyzes user spending patterns using K-Means clustering and provides financial insights through an interactive Streamlit web app, along with an integrated chatbot for financial queries.
 
-📈 Features
+##📈 Features
   Analyzes 2 years of daily spending data for 5 users.
   
   K-Means clustering (k=3) to group users as Low, Medium, or High spenders.
