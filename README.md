@@ -2,8 +2,11 @@ A simple yet powerful finance management system that analyzes user spending patt
 
 📈 Features
   Analyzes 2 years of daily spending data for 5 users.
+  
   K-Means clustering (k=3) to group users as Low, Medium, or High spenders.
+  
   Visualizes spending trends and cluster insights using Streamlit.
+  
   NLTK-based chatbot answers general finance-related questions and user-specific spending queries.
 
 🛠️ Technologies Used
